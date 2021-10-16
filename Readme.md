@@ -44,7 +44,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/youtube/views/uAHl5jvnrhk?style=social">
 
 #### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/main"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/thealbinantony/Autofilterbotv2.9/tree/main"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 </details>
 
@@ -56,9 +56,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 * This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/MoTech) is the original
 * Click [Deploy Video](https://youtu.be/lI71HsWzTKE) to watch the video
 
-#### Deploy Video
-<a href="https://youtu.be/lI71HsWzTKE"><img src="https://img.shields.io/badge/Deploy%20Video-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/lI71HsWzTKE"><img src="https://img.shields.io/youtube/views/lI71HsWzTKE?style=social">
+
 
 #### Deploy To Heroku
 <a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/MoTech"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
@@ -117,8 +115,6 @@ OR
 * Mongo DB URL Obtained From [Mongo DB](https://youtu.be/gBLTsH-IXr0)
 
 ----
-##### Support   
-Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
@@ -133,4 +129,3 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
  - [Thanks To AlbertEinsteinTG 👀](https://github.com/AlbertEinsteinTG)
- - [PR0FESS0R-99](https://github.com/PR0FESS0R-99), [Mo_Tech_Group](https://telegram.dog/Mo_Tech_Group), [MT_Botz](https://telegram.dog/MT_Botz)
